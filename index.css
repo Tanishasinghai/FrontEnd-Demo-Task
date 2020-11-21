@@ -1,0 +1,97 @@
+body{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.cardOne{
+    margin-top: 20%;
+    background: #232526;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius: 20%;
+    border-style: outset;
+        
+}
+.cardOnei{
+    border-radius: 20%;
+}
+
+.home{
+    background: #757F9A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #D7DDE8, #757F9A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #D7DDE8, #757F9A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     border-radius: 2rem;
+}
+
+
+.navCSS{
+    border-radius: 2rem;
+}
+.mainHeading{
+    padding:2em;
+    font-family: 'Modak', cursive;
+}
+.cardDiv{
+   
+        min-height: 2em;
+ 
+}
+.sec{
+    background: #3E5151;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DECBA4, #3E5151); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color:black;
+border:2px  inset;
+border-radius: 30px;
+opacity:0.8;
+}
+.secHead{
+    padding-top:2em;
+    padding-left: 2em;
+    font-family: 'Pangolin', cursive;
+}
+.secBody{
+    padding-top:2em;
+    padding-left: 2em;
+    font-family: 'Pangolin', cursive;
+}
+
+.work{
+    font-family: 'Pangolin', cursive;
+}
+.mainDiv1{
+    margin: 20px auto;
+}
+.mainDiv2{
+
+    margin: 20px auto;
+}
+.cardTwo{
+    border-radius: 48%;
+    background: #232526;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.cardCont{
+    border-radius: 50%;
+}
+.vidCont{
+    border:1em solid rgb(160, 154, 144);
+    border-radius: 20%;
+}
+video {
+    width: 100%;
+    height: auto;
+  }
+  .jumbotron{
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     border-radius: 20%;    
+  }
+  .roundImage{
+      border-radius: 60%;
+      background-size: cover;
+  }
